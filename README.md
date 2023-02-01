@@ -23,7 +23,7 @@ The table below shows developers details - names, github username linking to the
 
 ### Meet the Collaborators
 
-Thanks for making `OpenSource101` easier to build. 🙏🙏
+Thanks for contributing to `OpenSource101`. 🙏🙏
 
 [![Contributors](https://contrib.rocks/image?repo=segunajibola/opensource101)](https://github.com/segunajibola/opensource101/edit/main/README.md)
 
