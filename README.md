@@ -8,7 +8,7 @@
 - [What is this repo all about?](#what-is-this-repo-all-about)
 - [What are you contributing to?](#what-are-you-contributing-to)
 - [Meet the Collaborators](#meet-the-Collaborators)
-- [Meet our Stars ⭐️](#meet-our-Stars)
+- [Meet our Stars ⭐️](#meet-our-Stars-)
 
 ### What is this repo all about?
 This repo will help developers that want to begin their opensource journey. If you are new to opensource, this repo will help you make your first contribution with the help of your first pull request.
