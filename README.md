@@ -1,6 +1,6 @@
+﻿## OpenSource101
 <div id="top"></div>
 
-﻿## OpenSource101
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub issues](https://img.shields.io/github/issues/segunajibola/opensource101?style=plastic)](https://github.com/segunajibola/opensource101/issues)
 [![GitHub forks](https://img.shields.io/github/forks/segunajibola/opensource101?style=plastic)](https://img.shields.io/github/forks/segunajibola/opensource101)
