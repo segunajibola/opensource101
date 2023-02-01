@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 ﻿## OpenSource101
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub issues](https://img.shields.io/github/issues/segunajibola/opensource101?style=plastic)](https://github.com/segunajibola/opensource101/issues)
@@ -30,3 +32,4 @@ Thanks for contributing to `OpenSource101`. 🙏🙏
 ### Meet our Stars
 
 [![Stargazers](https://git-lister.onrender.com/api/stars/segunajibola/opensource101?limit=15)](https://github.com/segunajibola/OpenSource101)
+<p align="right"><a href="#top">Go to top</a></p>
