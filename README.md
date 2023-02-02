@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-Star ⭐ this project to join our stars
+<h6>Star ⭐ this project to join our stars</h6>
 [![Stargazers](https://git-lister.onrender.com/api/stars/segunajibola/opensource101?limit=100)](https://github.com/segunajibola/OpenSource101)
 
 <h2>OpenSource101</h2>
@@ -31,31 +31,19 @@ The table below shows developers details - names, github username linking to the
 
 #### Step 1. Fork this repo (You can only fork this repo with your computer or mobile device in desktop mode)
 
-Click the his repo [here](https://github.com/segunajibola/picbot/fork), or by clicking the fork icon in the top right corner of this repo.
-2. Clone the project to your local code editor, use the following command in your terminal:
+Click the  repo [here](https://github.com/segunajibola/picbot/fork), or by clicking the `Fork` icon in the top right corner of this repo.
+
+#### Step 2. Clone the repo
+
+Clone this project to your local code editor (VSCode), go to your terminal, navigate to your desired folder, use the following command in your terminal:
 
    ```bash
-   git clone https://github.com/<your-github-username>/picbot
+   git clone https://github.com/<your-github-username>/opensoure101
    ```
-
-3. Navigate to the project directory
-
-   ```bash
-   cd picbot
-   ```
-
-4. Install any dependencies with `npm install`
-
-   ```bash
-   npm install
-   ```
+   Press `enter`
    
-5. Create a `.env` file in the main folder. Create a Pixabay account if you don't have, get your API key. Put `REACT_APP_PIXABAY_API_KEY=put-your-api-key-here` in your `.env` file to configure the `.env` file for this project.
-
-6. Run `npm start` in project root directory using the terminal.
-
    ```bash
-   npm start
+   cd opensource101
    ```
    
 <p align="right"><a href="#top">Go to top</a></p>
