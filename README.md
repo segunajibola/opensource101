@@ -123,8 +123,9 @@ Follow these simple steps.
    <li> Go back to your repository (your forked version of this repo) in your browser.</li>
 
 <li> Refresh your page.</li>
-<li> You should see a “Compare and Pull Request” button. If you see the button, proceed with `step 4`, if you don't see it, proceed with `step 3i`. </li>
+<li> You should see a “Compare and Pull Request” button. If you see the button, proceed with step 4, if you don't see it, proceed with step 3i. </li>
   i - Click the `Pull request` in your forked repo to navigate to the Pull request tab. 
+   <img src="https://user-images.githubusercontent.com/74687658/216456265-056b7f44-6463-4063-be1b-9addc325b684.png" width="100" height="100" />
   ![Screenshot 2023-02-02 224113](https://user-images.githubusercontent.com/74687658/216456265-056b7f44-6463-4063-be1b-9addc325b684.png)
   ii - You should see the `New pull request` botton. Proceed with `step 4`
 <li> Click on the button.</li>
@@ -141,7 +142,7 @@ If everything went successfully, your changes will be merged.
 
 Thanks for contributing to `OpenSource101`. 🙏🙏
 
-<a href="https://github.com/segunajibola/picbot/graphs/contributors">
+<a href="https://github.com/segunajibola/opensource101/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=segunajibola/opensource101" alt="opensource101 contributors" width="40" height="40"/>
 </a>
 
