@@ -22,7 +22,7 @@ The table below shows developers details - names, github username linking to the
 | Number | Name | Github Username | Favourite Programming Language |
 | - | ----------- | ------------------------------ | ----- |
 | 1 | Segun Ajibola | [segunajibola](https://github.com/segunajibola) | JavaScript |
-| 2 | Add your name | [AishatMuhammed](https://github.com/Aysha-py) | JavaScript |
+| 2 | Aishat Muhammed| [AishatMuhammed](https://github.com/Aysha-py) | JavaScript |
 
 ### Meet the Collaborators
 
