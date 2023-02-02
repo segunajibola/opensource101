@@ -13,8 +13,8 @@ Star ⭐ this project to join our stars
 
 - [What is this repo all about?](#what-is-this-repo-all-about)
 - [What are you contributing to?](#what-are-you-contributing-to)
+- [How to Contribute](#how-to-Contribute)
 - [Meet the Collaborators](#meet-the-Collaborators)
-- [Meet our Stars ⭐️](#meet-our-Stars)
 
 ### What is this repo all about?
 This repo will help developers that want to begin their opensource journey. If you are new to opensource, this repo will help you make your first contribution with the help of your first pull request.
@@ -27,13 +27,43 @@ The table below shows developers details - names, github username linking to the
 | 1 | Segun Ajibola | [segunajibola](https://github.com/segunajibola) | JavaScript |
 | 2 | Add your name | [Add your github username](https://github.com/<github-username>) | Add your favourite programming language |
 
+### How to Contribute
+
+#### Step 1. Fork this repo (You can only fork this repo with your computer or mobile device in desktop mode)
+
+Click the his repo [here](https://github.com/segunajibola/picbot/fork), or by clicking the fork icon in the top right corner of this repo.
+2. Clone the project to your local code editor, use the following command in your terminal:
+
+   ```bash
+   git clone https://github.com/<your-github-username>/picbot
+   ```
+
+3. Navigate to the project directory
+
+   ```bash
+   cd picbot
+   ```
+
+4. Install any dependencies with `npm install`
+
+   ```bash
+   npm install
+   ```
+   
+5. Create a `.env` file in the main folder. Create a Pixabay account if you don't have, get your API key. Put `REACT_APP_PIXABAY_API_KEY=put-your-api-key-here` in your `.env` file to configure the `.env` file for this project.
+
+6. Run `npm start` in project root directory using the terminal.
+
+   ```bash
+   npm start
+   ```
+   
+<p align="right"><a href="#top">Go to top</a></p>
+
 ### Meet the Collaborators
 
 Thanks for contributing to `OpenSource101`. 🙏🙏
 
 [![Contributors](https://contrib.rocks/image?repo=segunajibola/opensource101)](https://github.com/segunajibola/opensource101/edit/main/README.md)
 
-### Meet our Stars
-
-[![Stargazers](https://git-lister.onrender.com/api/stars/segunajibola/opensource101?limit=100)](https://github.com/segunajibola/OpenSource101)
 <p align="right"><a href="#top">Go to top</a></p>
