@@ -172,7 +172,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 ## Community
 
-Join the opensoure community on [Whatsapp](https://chat.whatsapp.com/J64W5DUF6UB7jYbcSHc616). If you have any issue, you will find help here.
+Join our opensoure community on [Whatsapp](https://chat.whatsapp.com/J64W5DUF6UB7jYbcSHc616). If you have any issue, you will find help here.
 
 ## Support
 
