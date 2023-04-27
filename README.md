@@ -165,10 +165,10 @@ If everything went successfully, your changes will be merged.
 Thanks for contributing to `OpenSource101`. 🙏🙏
 
 <a href="https://github.com/segunajibola/opensource101/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=segunajibola/opensource101" alt="opensource101 contributors" width="40" height="40"/>
+  <img src="https://contrib.rocks/image?repo=segunajibola/opensource101" alt="opensource101 contributors" width="100%" height="100%"/>
 </a>
 
-[![Contributors](https://contrib.rocks/image?repo=segunajibola/opensource101)](https://github.com/segunajiola/opensource101/edit/main/README.md)
+[![Contributors](https://contrib.rocks/image?repo=segunajibola/opensource101)](https://github.com/segunajibola/opensource101/edit/main/README.md)
 
 
 Made with [contrib.rocks](https://contrib.rocks).
