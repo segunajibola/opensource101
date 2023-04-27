@@ -168,7 +168,7 @@ Thanks for contributing to `OpenSource101`. 🙏🙏
   <img src="https://contrib.rocks/image?repo=segunajibola/opensource101" alt="opensource101 contributors" width="40" height="40"/>
 </a>
 
-[![Contributors](https://contrib.rocks/image?repo=segunajiola/opensource101)](https://github.com/segunajiola/opensource101/edit/main/README.md)
+[![Contributors](https://contrib.rocks/image?repo=segunajibola/opensource101)](https://github.com/segunajiola/opensource101/edit/main/README.md)
 
 
 Made with [contrib.rocks](https://contrib.rocks).
