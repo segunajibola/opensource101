@@ -38,6 +38,8 @@ The table below shows developers details - names, github username linking to the
 | 5      | Yunihart Poli        | [hartpoli](https://github.com/hartpoli/)            | JavaScript                     |
 | 6      | Akinkunmi Toluwalope | [H4LV3D](https://github.com/H4LV3D)                 | JavaScript                     |
 | 7 | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript |
+| 8 | |  |  |
+| 9 |  |  |  |
 | 12 | Chukwudi David Okoro | [Donchuks02](https://github.com/Donchuks02) | Python |
 <!-- TABLE SECTION ENDS -->
 
