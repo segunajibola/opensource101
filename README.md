@@ -29,18 +29,19 @@ The table below shows developers details - names, github username linking to the
 
 <!-- TABLE SECTION -->
 
-| Number | Name                 | Github Username                                     | Favourite Programming Language |
-| ------ | -------------------- | --------------------------------------------------- | ------------------------------ |
-| 1      | Segun Ajibola        | [segunajibola](https://github.com/segunajibola)     | JavaScript                     |
-| 2      | Aysha Muhammed       | [Aysha-py](https://github.com/Aysha-py)             | JavaScript                     |
-| 3      | David Olowomeye      | [greatdaveo](https://github.com/greatdaveo)         | JavaScript                     |
-| 4      | Anozie Chibuike      | [AnozieChibuike](https://github.com/AnozieChibuike) | Python                         |
-| 5      | Yunihart Poli        | [hartpoli](https://github.com/hartpoli/)            | JavaScript                     |
-| 6      | Akinkunmi Toluwalope | [H4LV3D](https://github.com/H4LV3D)                 | JavaScript                     |
-| 7 | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript |
-| 8 | |  |  |
-| 9 |  |  |  |
-| 12 | Chukwudi David Okoro | [Donchuks02](https://github.com/Donchuks02) | Python |
+| Number | Name                   | Github Username                                      | Favourite Programming Language |
+| ------ | ---------------------- | ---------------------------------------------------- | ------------------------------ |
+| 1      | Segun Ajibola          | [segunajibola](https://github.com/segunajibola)      | JavaScript                     |
+| 2      | Aysha Muhammed         | [Aysha-py](https://github.com/Aysha-py)              | JavaScript                     |
+| 3      | David Olowomeye        | [greatdaveo](https://github.com/greatdaveo)          | JavaScript                     |
+| 4      | Anozie Chibuike        | [AnozieChibuike](https://github.com/AnozieChibuike)  | Python                         |
+| 5      | Yunihart Poli          | [hartpoli](https://github.com/hartpoli/)             | JavaScript                     |
+| 6      | Akinkunmi Toluwalope   | [H4LV3D](https://github.com/H4LV3D)                  | JavaScript                     |
+| 7      | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript                     |
+| 8      |                        |                                                      |                                |
+| 9      |                        |                                                      |                                |
+| 12     | Chukwudi David Okoro   | [Donchuks02](https://github.com/Donchuks02)          | Python                         |
+
 <!-- TABLE SECTION ENDS -->
 
 ## How to Contribute
@@ -147,10 +148,10 @@ Follow these simple steps.
 <li> Refresh your page.</li>
 <li> You should see a “Compare and Pull Request” button. If you see the button, proceed with Step 4, if you don't see it, proceed with Step 3i. </li>
 
-  i - Click the `Pull request` in your forked repo to navigate to the Pull request tab. See the image below.
-   <img src="https://user-images.githubusercontent.com/74687658/216456265-056b7f44-6463-4063-be1b-9addc325b684.png" width="100%" height="500" style="display: block;" />
+i - Click the `Pull request` in your forked repo to navigate to the Pull request tab. See the image below.
+<img src="https://user-images.githubusercontent.com/74687658/216456265-056b7f44-6463-4063-be1b-9addc325b684.png" width="100%" height="500" style="display: block;" />
 
-  ii - You should see the `New pull request` botton. Proceed with `Step 4`
+ii - You should see the `New pull request` botton. Proceed with `Step 4`
 
 <li> Click on the button “Compare and Pull Request” / "New pull request" .</li>
 <li> You should be prompted to a new page, click `Create pull request` button in that new page. Confirm with the image below.</li>
