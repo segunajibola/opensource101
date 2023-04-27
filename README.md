@@ -165,7 +165,7 @@ If everything went successfully, your changes will be merged.
 Thanks for contributing to `OpenSource101`. 🙏🙏
 
 <a href="https://github.com/segunajibola/opensource101/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=segunajibola/opensource101" alt="opensource101 contributors" width="40" height="40"/>
+  <img src="https://contrib.rocks/image?repo=segunajibola/opensource101" alt="opensource101 contributors" width="80" height="80"/>
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
