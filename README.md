@@ -40,7 +40,11 @@ The table below shows developers details - names, github username linking to the
 | 7      | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript                     |
 | 8      |                        |                                                      |                                |
 | 9      |                        |                                                      |                                |
+| 10     |                        |                                                      |                                |
+| 11     |                        |                                                      |                                |
 | 12     | Chukwudi David Okoro   | [Donchuks02](https://github.com/Donchuks02)          | Python                         |
+| 13     |                        |                                                      |                                |
+| 14     | Toluwanimi Sobowale    | [tonisobowale01](https://github.com/tonisobowale01)  | JavaScript                     |
 
 <!-- TABLE SECTION ENDS -->
 
