@@ -45,6 +45,12 @@ The table below shows developers details - names, github username linking to the
 | 12     | Chukwudi David Okoro   | [Donchuks02](https://github.com/Donchuks02)          | Python                         |
 | 13     |                        |                                                      |                                |
 | 14     | Toluwanimi Sobowale    | [tonisobowale01](https://github.com/tonisobowale01)  | JavaScript                     |
+| 15     |                        |                                                      |                                |
+| 16     |                        |                                                      |                                |
+| 17     |                        |                                                      |                                |
+| 18     |                        |                                                      |                                |
+| 19     |                        |                                                      |                                |
+| 20     |                        |                                                      |                                |
 
 <!-- TABLE SECTION ENDS -->
 
