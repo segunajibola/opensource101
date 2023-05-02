@@ -50,7 +50,7 @@ The table below shows developers details - names, github username linking to the
 | 17     |                        |                                                      |                                |
 | 18     |                        |                                                      |                                |
 | 19     |                        |                                                      |                                |
-| 20     |                        |                                                      |                                |
+| 20     | Arinze Chinweuba       | [just-arizon](https://github.com/just-arizon)        | JavaScript                     |
 
 <!-- TABLE SECTION ENDS -->
 
