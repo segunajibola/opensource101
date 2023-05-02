@@ -14,10 +14,19 @@
 
 - [What is this repo all about?](#what-is-this-repo-all-about)
 - [What are you contributing to?](#what-are-you-contributing-to)
-- [How to Contribute](#how-to-Contribute)
-- [Meet the Collaborators](#meet-the-Collaborators)
-- [Community👨‍👩‍👦](#community)
-- [Support💸](#support)
+- [How to Contribute](#how-to-contribute)
+  - [Step 1. Fork this repo (You can only fork this repo with your computer or mobile device in desktop mode)](#step-1-fork-this-repo-you-can-only-fork-this-repo-with-your-computer-or-mobile-device-in-desktop-mode)
+  - [Step 2. Clone the repo](#step-2-clone-the-repo)
+  - [Step 3. Add your changes](#step-3-add-your-changes)
+  - [Step 4. Create a new remote for the upstream repository.](#step-4-create-a-new-remote-for-the-upstream-repository)
+  - [Step 5. Create your branch](#step-5-create-your-branch)
+  - [Step 6. Add your changes to git](#step-6-add-your-changes-to-git)
+  - [Step 7. Commit your changes to git](#step-7-commit-your-changes-to-git)
+  - [Step 8. Push your changes to git](#step-8-push-your-changes-to-git)
+  - [Step 9. Create a pull request.](#step-9-create-a-pull-request)
+- [Meet the Collaborators](#meet-the-collaborators)
+- [Community](#community)
+- [Support](#support)
 
 ## What is this repo all about?
 
@@ -39,8 +48,9 @@ The table below shows developers details - names, github username linking to the
 | 6      | Akinkunmi Toluwalope   | [H4LV3D](https://github.com/H4LV3D)                  | JavaScript                     |
 | 7      | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript                     |
 | 8      | Mildred Erubore        | [mildred366](https://github.com/mildred366/)         | JavaScript                     |
-| 9      |                        |                                                      |                                |
-| 10     |                        |                                                      |                                |
+| 9      | Teslim Abdulwahab      | [Tesimune](https://github.com/tesimune/)           |
+JavaScrpt                      |
+| 10     |                       |                                                      |                                |
 | 11     |                        |                                                      |                                |
 | 12     | Chukwudi David Okoro   | [Donchuks02](https://github.com/Donchuks02)          | Python                         |
 | 13     |                        |                                                      |                                |
