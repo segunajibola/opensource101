@@ -23,6 +23,20 @@
 
 This repo will help developers that want to begin their opensource journey. If you are new to opensource, this repo will help you make your first contribution with the help of your first pull request.
 
+## Benefits of contributing to this repo
+
+- Skill Development: Contributing to an open source project allows you to improve your skills in programming, debugging, collaboration, and communication. By working with experienced developers, you can learn new techniques, best practices, and gain real-world experience.
+
+- Professional Networking: Open source projects are usually developed by a community of people with a shared interest, which means you can connect with like-minded individuals and build professional relationships. This networking can lead to new job opportunities, mentorship, or collaboration on future projects.
+
+- Reputation Building: Contributing to open source projects can help you establish a reputation as a competent and reliable developer in the community. This can lead to increased visibility, recognition, and opportunities for collaboration or employment.
+
+- Community Building: Open source communities are diverse, inclusive, and supportive of each other. By contributing to a project, you become a part of this community and can help shape its culture and values. Additionally, you may be able to help other contributors and create a positive impact on the project's development.
+
+## Community
+
+Join the opensoure community on [Whatsapp](https://chat.whatsapp.com/J64W5DUF6UB7jYbcSHc616). If you have any issue, you will find help here.
+
 ## What are you contributing to?
 
 The table below shows developers details - names, github username linking to their profile and their favourite programming languages.
