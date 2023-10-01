@@ -39,18 +39,19 @@ The table below shows developers details - names, github username linking to the
 | 6      | Akinkunmi Toluwalope   | [H4LV3D](https://github.com/H4LV3D)                  | JavaScript                     |
 | 7      | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript                     |
 | 8      | Mildred Erubore        | [mildred366](https://github.com/mildred366/)         | JavaScript                     |
-| 9      |                        |                                                      |                                |
-| 10     |                        |                                                      |                                |
+| 9      | Adesite Godwin        | [softcreations01(https://github.com/softcreations01/)         | Python                     |
+| 10      |                        |                                                      |                                |
 | 11     |                        |                                                      |                                |
-| 12     | Chukwudi David Okoro   | [Donchuks02](https://github.com/Donchuks02)          | Python                         |
-| 13     |                        |                                                      |                                |
-| 14     | Toluwanimi Sobowale    | [tonisobowale01](https://github.com/tonisobowale01)  | JavaScript                     |
-| 15     |                        |                                                      |                                |
+| 12     |                        |                                                      |                                |
+| 13     | Chukwudi David Okoro   | [Donchuks02](https://github.com/Donchuks02)          | Python                         |
+| 14     |                        |                                                      |                                |
+| 15     | Toluwanimi Sobowale    | [tonisobowale01](https://github.com/tonisobowale01)  | JavaScript                     |
 | 16     |                        |                                                      |                                |
 | 17     |                        |                                                      |                                |
 | 18     |                        |                                                      |                                |
 | 19     |                        |                                                      |                                |
 | 20     |                        |                                                      |                                |
+| 21     |                        |                                                      |                                |
 
 <!-- TABLE SECTION ENDS -->
 
