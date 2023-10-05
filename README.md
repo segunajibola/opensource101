@@ -25,33 +25,33 @@ This repo will help developers that want to begin their opensource journey. If y
 
 ## What are you contributing to?
 
-The table below shows developers details - names, github username linking to their profile and their favourite programming languages.
+The table below shows developers' details - names, Github usernames linking to their profiles, their favorite programming languages, brief bios, and project links.
 
 <!-- TABLE SECTION -->
 
-| Number | Name                   | Github Username                                      | Favourite Programming Language |
-| ------ | ---------------------- | ---------------------------------------------------- | ------------------------------ |
-| 1      | Segun Ajibola          | [segunajibola](https://github.com/segunajibola)      | JavaScript                     |
-| 2      | Aysha Muhammed         | [Aysha-py](https://github.com/Aysha-py)              | JavaScript                     |
-| 3      | David Olowomeye        | [greatdaveo](https://github.com/greatdaveo)          | JavaScript                     |
-| 4      | Anozie Chibuike        | [AnozieChibuike](https://github.com/AnozieChibuike)  | Python                         |
-| 5      | Yunihart Poli          | [hartpoli](https://github.com/hartpoli/)             | JavaScript                     |
-| 6      | Akinkunmi Toluwalope   | [H4LV3D](https://github.com/H4LV3D)                  | JavaScript                     |
-| 7      | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript                     |
-| 8      | Mildred Erubore        | [mildred366](https://github.com/mildred366/)         | JavaScript                     |
-| 9      | Adesite Godwin        | [softcreations01(https://github.com/softcreations01/)         | Python                     |
-| 10      |                        |                                                      |                                |
-| 11     |                        |                                                      |                                |
-| 12     |                        |                                                      |                                |
-| 13     | Chukwudi David Okoro   | [Donchuks02](https://github.com/Donchuks02)          | Python                         |
-| 14     |                        |                                                      |                                |
-| 15     | Toluwanimi Sobowale    | [tonisobowale01](https://github.com/tonisobowale01)  | JavaScript                     |
-| 16     |                        |                                                      |                                |
-| 17     |                        |                                                      |                                |
-| 18     |                        |                                                      |                                |
-| 19     |                        |                                                      |                                |
-| 20     |                        |                                                      |                                |
-| 21     |                        |                                                      |                                |
+| Number | Name                   | Github Username                                      | Favourite Programming Language | Bio                                                | Project Links                                       |
+| ------ | ---------------------- | ---------------------------------------------------- | ------------------------------ | -------------------------------------------------- | --------------------------------------------------- |
+| 1      | Segun Ajibola          | [segunajibola](https://github.com/segunajibola)      | JavaScript                     |  | |
+| 2      | Aysha Muhammed         | [Aysha-py](https://github.com/Aysha-py)              | JavaScript                     |         | |
+| 3      | David Olowomeye        | [greatdaveo](https://github.com/greatdaveo)          | JavaScript                     |     |  |
+| 4      | Anozie Chibuike        | [AnozieChibuike](https://github.com/AnozieChibuike)  | Python                         |  |  |
+| 5      | Yunihart Poli          | [hartpoli](https://github.com/hartpoli/)             | JavaScript                     |   |  |
+| 6      | Akinkunmi Toluwalope   | [H4LV3D](https://github.com/H4LV3D)                  | JavaScript                     |   |  |
+| 7      | Oluwatobiloba Bamisebi | [oluwatobiloba1](https://github.com/oluwatobiloba1/) | JavaScript                     |  |  |
+| 8      | Mildred Erubore        | [mildred366](https://github.com/mildred366/)         | JavaScript                     |  | |
+| 9      | Adesite Godwin         | [softcreations01](https://github.com/softcreations01/) | Python                        | Cloud DevOps Engineer, PM, Tech lover.                                 | [AWS Infrastructure automation Project](https://github.com/softcreations01/aws-infrastructure-automation) |
+| 10     | Chukwudi David Okoro   |  [Donchuks02](https://github.com/Donchuks02)        |         Python   |                        |  |
+| 11     |  Toluwanimi Sobowale   |  [tonisobowale01](https://github.com/tonisobowale01)   |  JavaScript |                        |  |
+| 12     |               |     |                   |                        |  |
+| 13     |               |     |                   |                        |  |
+| 14     |               |     |                   |                        |  |
+| 15     |               |     |                   |                        |  |
+| 16     |               |     |                   |                        |  |
+| 17     |               |     |                   |                        |  |
+| 18     |               |     |                   |                        |  |
+| 19     |               |     |                   |                        |  |
+| 20     |               |     |                   |                        |  |
+| 21     |               |     |                   |                        |  |
 
 <!-- TABLE SECTION ENDS -->
 
@@ -93,7 +93,7 @@ Navigate to the 📁opensoure101/README.md file in VSCode or any other code edit
 
 Add your row, just copy and paste to the last row.
 
-`| (number) | Add your name | [Add your github username](https://github.com/<github-username>) | Add your favourite programming language |`
+`| (number) | Add  | [Add your github username](https://github.com/<github-username>) | Add your favourite programming language | Add your bio | [Add your project links](https://github.com/<github-username>/project_name)`
 
 ### Step 4. Create a new remote for the upstream repository.
 
