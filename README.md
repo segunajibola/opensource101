@@ -13,15 +13,31 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/segunajibola/opensource101?style=plastic&label=Watch)](https://github.com/segunajibola/opensource101)
 
 - [What is this repo all about?](#what-is-this-repo-all-about)
+- [Community](#community)
 - [What are you contributing to?](#what-are-you-contributing-to)
-- [How to Contribute](#how-to-Contribute)
-- [Meet the Collaborators](#meet-the-Collaborators)
-- [Community👨‍👩‍👦](#community)
-- [Support💸](#support)
+- [Benefits of contributing to this repo](#benefits-of-contributing-to-this-repo)
+- [Contributors](#contributors)
+- [How to Contribute](#how-to-contribute)
+  - [Step 1. Fork this repo (You can only fork this repo with your computer or mobile device in desktop mode)](#step-1-fork-this-repo-you-can-only-fork-this-repo-with-your-computer-or-mobile-device-in-desktop-mode)
+  - [Step 2. Clone the repo](#step-2-clone-the-repo)
+  - [Step 3. Add your changes](#step-3-add-your-changes)
+  - [Step 4. Create a new remote for the upstream repository.](#step-4-create-a-new-remote-for-the-upstream-repository)
+  - [Step 5. Create your branch](#step-5-create-your-branch)
+  - [Step 6. Add your changes to git](#step-6-add-your-changes-to-git)
+  - [Step 7. Commit your changes to git](#step-7-commit-your-changes-to-git)
+  - [Step 8. Push your changes to git](#step-8-push-your-changes-to-git)
+  - [Step 9. Create a pull request.](#step-9-create-a-pull-request)
+- [Meet the Collaborators](#meet-the-collaborators)
+- [Community](#community-1)
+- [Support](#support)
 
 ## What is this repo all about?
 
 This repo will help developers that want to begin their opensource journey. If you are new to opensource, this repo will help you make your first contribution with the help of your first pull request.
+
+## Community
+
+Join the opensoure community on [Whatsapp](https://chat.whatsapp.com/J64W5DUF6UB7jYbcSHc616). If you have any issue, you will find help here.
 
 ## What are you contributing to?
 
@@ -54,6 +70,16 @@ The table below shows developers' details - names, Github usernames linking to t
 | 21     |               |     |                   |                        |  |
 
 <!-- TABLE SECTION ENDS -->
+
+## Benefits of contributing to this repo
+
+- Skill Development: Contributing to an open source project allows you to improve your skills in programming, debugging, collaboration, and communication. By working with experienced developers, you can learn new techniques, best practices, and gain real-world experience.
+
+- Professional Networking: Open source projects are usually developed by a community of people with a shared interest, which means you can connect with like-minded individuals and build professional relationships. This networking can lead to new job opportunities, mentorship, or collaboration on future projects.
+
+- Reputation Building: Contributing to open source projects can help you establish a reputation as a competent and reliable developer in the community. This can lead to increased visibility, recognition, and opportunities for collaboration or employment.
+
+- Community Building: Open source communities are diverse, inclusive, and supportive of each other. By contributing to a project, you become a part of this community and can help shape its culture and values. Additionally, you may be able to help other contributors and create a positive impact on the project's development.
 
 ## How to Contribute
 
