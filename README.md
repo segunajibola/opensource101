@@ -42,7 +42,7 @@ The table below shows developers' details - names, Github usernames linking to t
 | 9      | Adesite Godwin         | [softcreations01](https://github.com/softcreations01/) | Python                        | Cloud DevOps Engineer, PM, Tech lover.                                 | [AWS Infrastructure automation Project](https://github.com/softcreations01/aws-infrastructure-automation) |
 | 10     | Chukwudi David Okoro   |  [Donchuks02](https://github.com/Donchuks02)        |         Python   |                        |  |
 | 11     |  Toluwanimi Sobowale   |  [tonisobowale01](https://github.com/tonisobowale01)   |  JavaScript |                        |  |
-| 12     |               |     |                   |                        |  |
+| 12     |  Chiemelie Melikam             |   [MChiemelie](https://github.com/MChiemelie)   |      JavaScript          |        Frontend Developer, Technical Writer                | [Jambite](https://jambite.vercel.app),  [JavaScript: An Introduction](https://chiemelie.hashnode.dev/javascript-intro),    |
 | 13     |               |     |                   |                        |  |
 | 14     |               |     |                   |                        |  |
 | 15     |               |     |                   |                        |  |
@@ -89,7 +89,7 @@ cd opensource101
 
 ### Step 3. Add your changes
 
-Navigate to the 📁opensoure101/README.md file in VSCode or any other code editor, add your row in the table section at line 26.
+Navigate to the 📁opensoure101/README.md file in VSCode or any other code editor, add your row in the table section at line 13.
 
 Add your row, just copy and paste to the last row.
 
